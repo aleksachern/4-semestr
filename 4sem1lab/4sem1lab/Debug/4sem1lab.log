@@ -1,0 +1,3 @@
+﻿  4sem1lab.cpp
+c:\users\александра\desktop\4sem1lab\4sem1lab\4sem1lab.cpp(213): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  4sem1lab.vcxproj -> C:\Users\Александра\Desktop\4sem1lab\Debug\4sem1lab.exe
